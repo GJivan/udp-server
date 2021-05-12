@@ -1,2 +1,2 @@
-# udp-server
-UDP Server for Educative
+# UDP Server Client
+UDP Server Client Commuincation Example for Educative
